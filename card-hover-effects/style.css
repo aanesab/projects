@@ -53,18 +53,21 @@ body .container .card .face.face1 h2 {
 
 body .container .card .face.face1 .java {
   background-color: #fffc00;
+  background-clip: text;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
 
 body .container .card .face.face1 .python {
   background-color: #00fffc;
+  background-clip: text;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
 
 body .container .card .face.face1 .cSharp {
   background-color: #fc00ff;
+  background-clip: text;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
