@@ -173,11 +173,12 @@ Confeti styles
     transform: translate3d(-50px, 105vh, 0) rotateX(10deg) rotateY(250deg);
   }
 }
-.container {
-  /*width: 100vw;
+/*.container {
+  width: 100vw;
   height: 100vh;
-  background: #f0f0f0;*/
+  background: #f0f0f0;
 }
+*/
 
 .confetti-container {
   perspective: 700px;
