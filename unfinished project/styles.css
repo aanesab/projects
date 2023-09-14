@@ -291,7 +291,7 @@ header .right-side .nav-link-wrapper a {
   }
 
   header .right-side {
-    display: flex;
+     display: flex;
     justify-content: center;
     margin-top: 35px;
   }
@@ -342,3 +342,4 @@ header .right-side .nav-link-wrapper a {
     margin: 20px;
   }
 }
+ 
